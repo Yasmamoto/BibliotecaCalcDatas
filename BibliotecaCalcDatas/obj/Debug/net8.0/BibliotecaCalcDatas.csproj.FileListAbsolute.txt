@@ -1,0 +1,11 @@
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\bin\Debug\net8.0\BibliotecaCalcDatas.deps.json
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\bin\Debug\net8.0\BibliotecaCalcDatas.dll
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\bin\Debug\net8.0\BibliotecaCalcDatas.pdb
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\BibliotecaCalcDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\BibliotecaCalcDatas.AssemblyInfoInputs.cache
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\BibliotecaCalcDatas.AssemblyInfo.cs
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\BibliotecaCalcDatas.csproj.CoreCompileInputs.cache
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\BibliotecaCalcDatas.dll
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\refint\BibliotecaCalcDatas.dll
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\BibliotecaCalcDatas.pdb
+C:\Users\yamam\OneDrive\Documents\POO\BibliotecaDeClasses\BibliotecaCalcDatas\BibliotecaCalcDatas\obj\Debug\net8.0\ref\BibliotecaCalcDatas.dll
